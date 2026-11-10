@@ -1,4 +1,4 @@
-# Here Tushar Bhos
+# Tushar Bhos
 
 ### AI/ML-focused Computer Science student
 
