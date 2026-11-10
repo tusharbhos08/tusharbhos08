@@ -1,6 +1,6 @@
-# Hi, I'm Tushar Bhos 👋
+# Here Tushar Bhos
 
-### AI/ML-focused Computer Science student | Consultant at Alphalytic Solutions
+### AI/ML-focused Computer Science student
 
 I’m a B.Tech Computer Science student interested in building practical AI/ML solutions and software products. My main focus is Machine Learning, NLP, and Computer Vision, with supporting knowledge of backend development, frontend technologies, and databases.
 
